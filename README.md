@@ -12,11 +12,11 @@ Challenge: Amigo Secreto
 ## Capturas de Pantalla
 
 ###  Agregar nombres
-<img width="956" height="222" alt="Captura de pantalla 2025-07-30 171218" src="https://github.com/user-attachments/assets/4200f3f2-d531-40f8-b1a4-212aa0584774" />
+<img width="956" height="222" alt="Captura de pantalla 2025-07-30 171218" src="https://github.com/user-attachments/assets/d9143f26-f90b-4b54-ad21-16c485facdf5" />
 
 
 ### Sorteo del amigo secreto
-<img width="951" height="300" alt="sorteo" src="https://github.com/user-attachments/assets/9c63fe9f-ab1f-49c9-b439-64acd60482e6" />
+<img width="951" height="300" alt="sorteo" src="https://github.com/user-attachments/assets/3fc3b1bd-233d-494a-8f3d-8ea224952b60" />
 
 
 ## ¿Cómo usar el proyecto?
