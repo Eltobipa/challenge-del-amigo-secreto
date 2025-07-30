@@ -1,4 +1,4 @@
-Challenge: Amigo Secreto
+CHALLENGE: AMIGO SECRETO
 
 ## Funcionalidades
 
@@ -12,12 +12,13 @@ Challenge: Amigo Secreto
 ## Capturas de Pantalla
 
 ###  Agregar nombres
-<img width="956" height="222" alt="Captura de pantalla 2025-07-30 171218" src="https://github.com/user-attachments/assets/d9143f26-f90b-4b54-ad21-16c485facdf5" />
-
+<img width="1915" height="998" alt="nombre" src="https://github.com/user-attachments/assets/e636f8f7-9d9d-4cad-8040-a71505ca2d00" />
+<img width="1665" height="266" alt="nombre 2" src="https://github.com/user-attachments/assets/82a0c6d9-aa0d-4c8d-a35b-b75c68386707" />
+<img width="1588" height="301" alt="nombre3" src="https://github.com/user-attachments/assets/29e4c873-65ea-4f7a-a73b-afdac50aeba5" />
 
 ### Sorteo del amigo secreto
-<img width="951" height="300" alt="sorteo" src="https://github.com/user-attachments/assets/3fc3b1bd-233d-494a-8f3d-8ea224952b60" />
-
+<img width="1902" height="881" alt="sorteo2" src="https://github.com/user-attachments/assets/d0583ab3-d117-4dd6-bec1-c0539a249e8a" />
+<img width="773" height="422" alt="sorteo3" src="https://github.com/user-attachments/assets/99365b0c-0357-445c-9303-1d0cb73a8f3f" />
 
 ## ¿Cómo usar el proyecto?
 
@@ -64,7 +65,7 @@ No necesitas instalar nada. Solo un navegador web moderno:
 Proyecto creado con fines educativos para practicar **lógica de programación** y **manipulación del DOM con JavaScript**.
 
 Desarrollado por: *Tobias Dominguez*  
-Repositorio en GitHub: https://github.com/Eltobipa/challenge-del-amigo-screto.git
+Repositorio en GitHub: https://github.com/Eltobipa/challenge-del-amigo-secreto.git
 
 ---
 
